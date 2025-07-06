@@ -1,1 +1,60 @@
+## Visual Studio ##
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build Results ##
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+## NuGet Packages ##
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psmdcp
+
+## Entity Framework Migrations ##
+Migrations/
+
+## Rider (si usas JetBrains) ##
+.idea/
+
+## Logs ##
+*.log
+
+## OS Files ##
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Others ##
+*.dbmdl
+*.bak
+*.orig
+*.tmp
+*.cache
+
+# Visual Studio Code
+.vscode/
+
+# Test Results
+TestResults/
+*.TestResults/
+*.coverage
+*.coveragexml
+
+# DotCover
+*.dotCover
+
+# Publish
+.publish/
+
+*.exe
+*.pdb
+*.FileListAbsolute.txt
